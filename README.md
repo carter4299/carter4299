@@ -5,7 +5,7 @@
 
 ### My main focus of study is ✨Data Science and Machine Learning✨
 
-### Though most of what you find here will be web development projects 😓
+### Though most of what you find here will be web dev 😓
 
 
 <!--
