@@ -1,5 +1,6 @@
-<h1 style="text-align:center">Hi, my name is Carter Susi 🫡</h1>
-
+<div styles="text-align:center; display=flex; flex-direction:column; align-items:center">  
+<h1 style="text-align:center;">Hi, my name is Carter Susi 🫡</h1>
+</div>
 #### I'm currently a Mathematics student at the University of Central Florida 🫠
 
 #### My main focus of study is Data Science and Machine Learning 🤓
