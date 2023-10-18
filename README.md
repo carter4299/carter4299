@@ -13,8 +13,22 @@
 
  #### [lrQuantum](https://github.com/lrQuantum) - Interactive Web App that provides machine learning model access to retail traders
  
- #### Includes
- - Libraries written in C/C++, forked from [TA-Lib](https://github.com/TA-Lib) and 
+#### Includes
+- Expanded Open-Source Core Library forked from [TA-Lib](https://github.com/TA-Lib) written in C/C++
+- Server written in Go
+- Front-End written in TypeScript React/Preact
+
+#### Needs before initial release
+- Stable stream for live data {e.g I'm Broke 👨‍🎓}
+- Public use testing for Python/Go wrappers
+- Better designed logos, artwork, vector graphics, interfaces, etc..
+
+#### Wants before initial release
+- More core models
+- More intuitive way to enter portfolio than manually typing
+
+<h4 align="center">🧟‍♂️ Picked up a freelance job | dev/management on hold until 11-01-23 🧟‍♂️</h4>
+<h4 align="center">Contact me to contribute</h4>
 
 ---
 
