@@ -3,9 +3,18 @@
 
 ### I'm currently a Mathematics student at the University of Central Florida 🫠
 
-#### My main focus of study is ✨Data Science and Machine Learning✨
+#### My main focus of study is 🌱Data Science and Machine Learning🌱
 
-##### Though most of what you find here will be web dev 😓
+##### Though most of what you find here will be web dev 🤕
+
+---
+
+<h3 align="center"> 🔭 Big Things ⚡ </h3>
+
+ #### [lrQuantum](https://github.com/lrQuantum) - Interactive Web App that provides machine learning model access to retail traders
+ 
+ #### Includes
+ - Libraries written in C/C++, forked from [TA-Lib](https://github.com/TA-Lib) and 
 
 ---
 
@@ -13,8 +22,6 @@
 
 <h3 align="left"><a href="www.linkedin.com/in/carter-susi">LinkedIn</a></h3>
 <h3 align="right"><a href="mailto:cartersusi@proton.me">Email</a></h3>
-
----
 
 
 
