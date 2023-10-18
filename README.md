@@ -27,7 +27,7 @@
 - More core models
 - More intuitive way to enter portfolio than manually typing
 
-<h4 align="center">&#x1F9DF Picked up a freelance job | dev/management on hold until 11-01-23 &#x1F9DF</h4>
+<h4 align="center">&#x1F9DF Picked up a freelance job | dev/management on hold until November &#x1F9DF</h4>
 <h4 align="center">Contact me to contribute</h4>
 
 ---
