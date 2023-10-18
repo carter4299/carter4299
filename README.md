@@ -1,4 +1,4 @@
-<h1 styles="text-align:center;">Hi, my name is Carter Susi 🫡</h1>
+<div style="text-align:center;">Hi, my name is Carter Susi 🫡</div>
 
 #### I'm currently a Mathematics student at the University of Central Florida 🫠
 
