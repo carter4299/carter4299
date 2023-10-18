@@ -9,11 +9,13 @@
 
 ---
 
-<span style="color:green;font-weight:100;font-size:2px">
-    arch user
-</span>
+<h3 align="center"> 💬 Contacts 📫 </h3>
+
+<h3 align="left"> linkedin </h3>
+<h3 align="right"> email </h3>
 
 ---
+
 
 
 <!--
