@@ -1,4 +1,4 @@
-### Hi, my name is Carter Susi 🫡
+## Hi, my name is Carter Susi 🫡
 
 #### I'm currently a Mathematics student at the University of Central Florida 🫠
 
