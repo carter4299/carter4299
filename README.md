@@ -15,7 +15,7 @@
  
 #### Includes
 - Expanded Open-Source Core Library forked from [TA-Lib](https://github.com/TA-Lib) written in C/C++
-- Server written in Go
+- Server and main functionality written in Go. Using grpc for python, or CGo if needed.
 - Front-End written in TypeScript React/Preact
 
 #### Needs before initial release
