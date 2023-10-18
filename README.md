@@ -9,7 +9,7 @@
 
 ---
 
-<font size="1">Arch User</font>
+<font size="0.1">Arch User</font>
 
 ---
 
