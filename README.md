@@ -37,6 +37,11 @@
 <h3 align="left"><a href="www.linkedin.com/in/carter-susi">LinkedIn</a></h3>
 <h3 align="right"><a href="mailto:cartersusi@proton.me">Email</a></h3>
 
+---
+
+
+<h4 align="left">Resume | Click Here -> <a href="https://carter4299.github.io/resume/">🧻</a></h3>
+
 
 
 <!--
