@@ -9,7 +9,7 @@
 
 ---
 
-<p font-size="0.2rem">Arch User</p>
+<font size="0.2rem">Arch User</font>
 
 ---
 
