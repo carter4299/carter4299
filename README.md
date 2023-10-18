@@ -9,7 +9,9 @@
 
 ---
 
-<font size="0.1">Arch User</font>
+<span style="color:green;font-weight:100;font-size:2px">
+    arch user
+</span>
 
 ---
 
