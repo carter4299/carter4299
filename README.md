@@ -19,7 +19,7 @@
 - Front-End written in TypeScript React/Preact
 
 #### Needs before initial release
-- Stable stream for live data {e.g I'm Broke 👨‍🎓}
+- Stable stream for live data
 - Public use testing for Python/Go wrappers
 - Better designed logos, artwork, vector graphics, interfaces, etc..
 
