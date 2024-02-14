@@ -8,7 +8,13 @@
 [![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
 ---
 ## Websites
-### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> [jarvisAI](https://www.jarvisai.news/) - Interactive Web App that provides machine learning model access to retail traders
+
+### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> [jarvisAI](https://www.jarvisai.news/) - Aggregate and News for AI services 
+
+<a href="https://biimi.vercel.app/">
+  <img alt="Jarvis2" src="jarvis2.png">
+</a>
+
 - Built on Next.js, Cloudinary, Redis, and Pgvector
 - AI Service Aggregate
 - A Forum to Discuss Latest Topics
@@ -20,16 +26,33 @@
 - Expanded TA-Lib library with Go APIs, maybe Python
 - Still in the works
 
-## Models
+## Modls
 
-### ⚡ [biimi]() - Train a LLM model to speak like you using your article/blog posts dictation.
-- [GPT-4 Action](https://chat.openai.com/g/g-FYo65BSLw-biimi) - Easy to Use, Best Output Quality Version
-- [dolphin-2.5-mixtral-8x7b Instance](https://biimi.vercel.app/) - Uncesored Version for Political Articles
+### ⚡ [biimi](https://biimi.vercel.app/) - [dolphin-2.5-mixtral-8x7b](https://huggingface.co/cognitivecomputations/dolphin-2.5-mixtral-8x7b) fine-tuned with users semantics and dictation
 
-### 🔭 [qE]() - Query Enhancer NLP for Sematic Search
+<a href="https://biimi.vercel.app/">
+  <img alt="biimi" src="biimi.png">
+</a>
+
+- Uncesored Version of the GPT-4 action for Political Articles
+- Somewhat stable, will be realeased when the stream feature is efficient enough to offer free access.
+
+### 🔭 [Query Enhancer]() - NLP for Sematic Search
 - sub 250mb inference to fit inside of edge functions
+- written in C with Go APIs
 - Mix of training data. Gathered from JarvisAI, Google BigQuery. Generated from GPT-4, Mixtral-8x7b, and LLaMa-2.
 - idea from [llama2.c](https://github.com/karpathy/llama2.c) & [Tiny Stories](https://huggingface.co/datasets/roneneldan/TinyStories)
+
+## Other
+
+### ⚡ [biimi GPTs](https://chat.openai.com/g/g-FYo65BSLw-biimi) - Prompt GPT-4 to speak like you using your article/blog posts dictation.
+<a href="https://biimi.vercel.app/">
+  <img alt="biimi gpts" src="biimi-gpt.png">
+</a>
+
+- Have to submit your articles each assistant session
+- Best Output Quality
+- Easy to Use
 
 ---
 
