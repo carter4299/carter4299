@@ -23,7 +23,7 @@
 ## Models
 
 ### ⚡ [biimi]() - Train a LLM model to speak like you using your article/blog posts dictation.
-- [GPT-4 Plugin]() - Best Output Quality Version
+- [GPT-4 Action](https://chat.openai.com/g/g-FYo65BSLw-biimi) - Easy to Use, Best Output Quality Version
 - [dolphin-2.5-mixtral-8x7b Instance]() - Uncesored Version for Political Articles
 
 ### 🔭 [qE]() - Query Enhancer NLP for Sematic Search
