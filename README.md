@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=56C6FF&random=false&width=435&lines=Math+Student+at+University+of+Central+Florida.)](https://git.io/typing-svg)
 
-[![Twitter: newsJarvisAI](https://img.shields.io/twitter/follow/newsJarvisAI?style=social)](https://twitter.com/newsJarvisAI)
+[![Twitter: newsJarvisAI](https://img.shields.io/twitter/follow/CarterSusi?style=social)](https://twitter.com/CarterSusi)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.jarvisai.news/)](https://www.jarvisai.news/)
 [![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
 ---
