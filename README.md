@@ -8,7 +8,7 @@
 [![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
 ---
 ## Websites
-### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> [jarvisAI](https://github.com/jarvisainews) - Interactive Web App that provides machine learning model access to retail traders
+### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> [jarvisAI](https://www.jarvisai.news/) - Interactive Web App that provides machine learning model access to retail traders
 - Built on Next.js, Cloudinary, Redis, and Pgvector
 - AI Service Aggregate
 - A Forum to Discuss Latest Topics
