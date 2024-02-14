@@ -1,31 +1,35 @@
 
-<h1 align="center"> &#x1F44B Hi, my name is Carter Susi &#x1FAE1 </h1>
+<h1> Hi, my name is Carter Susi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
-### I'm currently a Mathematics student at the University of Central Florida 🍈
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=56C6FF&random=false&width=435&lines=Math+Student+at+University+of+Central+Florida.)](https://git.io/typing-svg)
 
-#### My main focus of study is 🧮 Data Science and Machine Learning 🧮
-
-##### Though most of what you find here will be web dev 😷
-
+[![Twitter: newsJarvisAI](https://img.shields.io/twitter/follow/newsJarvisAI?style=social)](https://twitter.com/newsJarvisAI)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.jarvisai.news/)](https://www.jarvisai.news/)
+[![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
 ---
+## Websites
+### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> [jarvisAI](https://github.com/jarvisainews) - Interactive Web App that provides machine learning model access to retail traders
+- Built on Next.js, Cloudinary, Redis, and Pgvector
+- AI Service Aggregate
+- A Forum to Discuss Latest Topics
+- A News Outlet
+- A Promotional Website for AI services
+  
+### <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif" width="32" align="center"/> [lrQuantum](https://github.com/lrQuantum) - Interactive Web App that provides machine learning model access to retail traders
+- Built on Go, HTMX, Pgvector, TradingView, (maybe WASM idk)
+- Expanded TA-Lib library with Go APIs, maybe Python
+- Still in the works
 
-<h3 align="center"> 🔭 Big Things ⚡ </h3>
+## Models
 
- #### [lrQuantum](https://github.com/lrQuantum) - Interactive Web App that provides machine learning model access to retail traders
- 
-#### Includes
-- Expanded Open-Source Core Library forked from [TA-Lib](https://github.com/TA-Lib) written in C/C++
-- Server and main functionality written in Go. Using grpc for python, or CGo for C/C++ if needed.
-- Front-End written in TypeScript React/Preact
+### ⚡ [biimi]() - Train a LLM model to speak like you using your article/blog posts dictation.
+- [GPT-4 Plugin]() - Best Output Quality Version
+- [dolphin-2.5-mixtral-8x7b Instance]() - Uncesored Version for Political Articles
 
-#### Needs before initial release
-- Stable stream for live data
-- Public use testing for Python/Go wrappers
-- Better designed logos, artwork, vector graphics, interfaces, etc..
-
-#### Wants before initial release
-- More core models
-- More intuitive way to enter portfolio than manually typing
+### 🔭 [qE]() - Query Enhancer NLP for Sematic Search
+- sub 250mb inference to fit inside of edge functions
+- Mix of training data. Gathered from JarvisAI, Google BigQuery. Generated from GPT-4, Mixtral-8x7b, and LLaMa-2.
+- idea from [llama2.c](https://github.com/karpathy/llama2.c) & [Tiny Stories](https://huggingface.co/datasets/roneneldan/TinyStories)
 
 ---
 
