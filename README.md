@@ -21,7 +21,7 @@
 - A News Outlet
 - A Promotional Website for AI services
 
-## Modls
+## Models
 
 ### ⚡ [biimi](https://biimi.vercel.app/) - [dolphin-2.5-mixtral-8x7b](https://huggingface.co/cognitivecomputations/dolphin-2.5-mixtral-8x7b) fine-tuned with users semantics and dictation
 
