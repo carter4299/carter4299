@@ -20,11 +20,6 @@
 - A Forum to Discuss Latest Topics
 - A News Outlet
 - A Promotional Website for AI services
-  
-### <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif" width="32" align="center"/> [lrQuantum](https://github.com/lrQuantum) - Interactive Web App that provides machine learning model access to retail traders
-- Built on Go, HTMX, Pgvector, TradingView
-- Expanded TA-Lib library with Go APIs, maybe Python
-- Still in the works
 
 ## Modls
 
