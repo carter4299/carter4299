@@ -15,7 +15,6 @@
   <img alt="Jarvis2" src="jarvis2.png">
 </a>
 
-- Built on Next.js, Cloudinary, Redis, and Pgvector
 - AI Service Aggregate
 - A Forum to Discuss Latest Topics
 - A News Outlet
