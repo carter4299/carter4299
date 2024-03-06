@@ -40,9 +40,6 @@
 ## Other
 
 ### ⚡ [biimi GPTs](https://chat.openai.com/g/g-FYo65BSLw-biimi) - Prompt GPT-4 to speak like you using your article/blog posts dictation.
-<a href="https://biimi.vercel.app/">
-  <img alt="biimi gpts" src="biimi-gpt.png">
-</a>
 
 - Have to submit your articles each assistant session
 - Best Output Quality
