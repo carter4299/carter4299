@@ -1,8 +1,6 @@
 
 <h1> Hi, my name is Carter Susi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=56C6FF&random=false&width=435&lines=Math+Student+at+University+of+Central+Florida.)](https://git.io/typing-svg)
-
 [![Twitter: newsJarvisAI](https://img.shields.io/twitter/follow/CarterSusi?style=social)](https://twitter.com/CarterSusi)
 [![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
 ---
